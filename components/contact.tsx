@@ -33,7 +33,7 @@ export function Contact() {
       <SectionHeading
         eyebrow="Contact"
         title="Let's talk about your team's next hire"
-        description="Open to remote full-time and contract roles (US, LATAM and Europe). The fastest way to reach me is email."
+        description="Open to remote work full-time and contract roles (US, LATAM and Europe). The fastest way to reach me is email."
       />
 
       <div className="grid gap-8 lg:grid-cols-[1fr_1.1fr] lg:gap-14">
@@ -79,7 +79,7 @@ export function Contact() {
               Available now
             </p>
             <p className="mt-1.5 text-sm leading-relaxed text-muted-foreground">
-              Open to remote full-time &amp; contract roles.
+              Open to remote work full-time &amp; contract roles.
             </p>
           </div>
         </Reveal>

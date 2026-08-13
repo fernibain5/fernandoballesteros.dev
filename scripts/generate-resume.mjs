@@ -10,7 +10,7 @@ const esc = (s) => s.replace(/\\/g, '\\\\').replace(/\(/g, '\\(').replace(/\)/g,
 const lines = [
   ['Fernando Ballesteros', 20, 1, 0],
   ['Full-Stack Software Engineer  |  Mobile (Flutter) + Backend (NestJS)', 11, 0, 6],
-  ['Hermosillo, Mexico - open to remote (US, LATAM and Europe)', 10, 0, 2],
+  ['Hermosillo, Mexico - open to remote work (US, LATAM and Europe)', 10, 0, 2],
   ['dev.fballesteros@gmail.com  |  linkedin.com/in/fernando-ballesteros-ba60b8222', 10, 0, 2],
   ['', 6, 0, 6],
   ['SUMMARY', 12, 1, 8],
