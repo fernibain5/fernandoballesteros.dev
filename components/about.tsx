@@ -37,18 +37,20 @@ export function About() {
 
       <div className="grid gap-10 lg:grid-cols-[1.1fr_1fr] lg:gap-16">
         <Reveal className="space-y-5 text-pretty leading-relaxed text-muted-foreground">
-          <p>
-            I&apos;m comfortable taking a project from an idea to a shipped product: designing
-            the architecture, integrating third-party APIs and services, and writing the
-            documentation that keeps a team moving. I care about the parts of engineering
-            that don&apos;t show up in a ticket.
-          </p>
-          <p>
-            Over the last few years I&apos;ve shipped 10+ production apps across the App Store
-            and Google Play — spanning payment and POS platforms, access control,
-            hospitality tech, and consumer apps. Each one came with its own constraints, and I
-            adapt to a project&apos;s existing stack rather than forcing a favorite tool.
-          </p>
+          <div className="hidden sm:block space-y-5">
+            <p>
+              I&apos;m comfortable taking a project from an idea to a shipped product: designing
+              the architecture, integrating third-party APIs and services, and writing the
+              documentation that keeps a team moving. I care about the parts of engineering
+              that don&apos;t show up in a ticket.
+            </p>
+            <p>
+              Over the last few years I&apos;ve shipped 10+ production apps across the App Store
+              and Google Play — spanning payment and POS platforms, access control,
+              hospitality tech, and consumer apps. Each one came with its own constraints, and I
+              adapt to a project&apos;s existing stack rather than forcing a favorite tool.
+            </p>
+          </div>
           <p>
             That adaptability is deliberate: I&apos;ve shipped with Node.js, MongoDB, Firebase,
             MySQL, Payload CMS, and GraphQL as different projects demanded, while keeping

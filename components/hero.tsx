@@ -44,7 +44,7 @@ export function Hero() {
 
           <div className="mt-6 flex items-center gap-2 text-sm text-muted-foreground">
             <MapPin className="size-4 text-brand" aria-hidden="true" />
-            Hermosillo, Mexico — open to remote (US, LATAM and Europe)
+            Hermosillo, Mexico — open to remote work (US, LATAM and Europe)
           </div>
 
           <div className="mt-9 flex flex-wrap gap-3">
