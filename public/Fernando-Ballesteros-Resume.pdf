@@ -1,0 +1,138 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3087 >>
+stream
+BT
+1 0 0 1 54 748 Tm
+/F2 20 Tf
+(Fernando Ballesteros) Tj
+1 0 0 1 54 718 Tm
+/F1 11 Tf
+(Full-Stack Software Engineer  |  Mobile \(Flutter\) + Backend \(NestJS\)) Tj
+1 0 0 1 54 701 Tm
+/F1 10 Tf
+(Hermosillo, Mexico - open to remote \(US, LATAM and Europe\)) Tj
+1 0 0 1 54 685 Tm
+/F1 10 Tf
+(dev.fballesteros@gmail.com  |  linkedin.com/in/fernando-ballesteros-ba60b8222) Tj
+1 0 0 1 54 665 Tm
+/F1 6 Tf
+1 0 0 1 54 647 Tm
+/F2 12 Tf
+(SUMMARY) Tj
+1 0 0 1 54 627 Tm
+/F1 10 Tf
+(Full-stack engineer specializing in mobile apps \(primarily Flutter\) and NestJS) Tj
+1 0 0 1 54 613 Tm
+/F1 10 Tf
+(backends. Hands-on from architecture to production: real-time systems,) Tj
+1 0 0 1 54 599 Tm
+/F1 10 Tf
+(payment/POS platforms, and consumer mobile apps. 10+ production apps shipped.) Tj
+1 0 0 1 54 579 Tm
+/F1 6 Tf
+1 0 0 1 54 561 Tm
+/F2 12 Tf
+(EXPERIENCE) Tj
+1 0 0 1 54 541 Tm
+/F2 11 Tf
+(INOWU - Software Engineer  \(~4 years\)) Tj
+1 0 0 1 54 524 Tm
+/F1 10 Tf
+(- Led architecture and delivery on multiple published mobile and web products.) Tj
+1 0 0 1 54 510 Tm
+/F1 10 Tf
+(- Primary stack: Flutter, NestJS, Prisma, PostgreSQL.) Tj
+1 0 0 1 54 496 Tm
+/F1 10 Tf
+(- Owned API integrations, real-time features, and documentation.) Tj
+1 0 0 1 54 482 Tm
+/F1 10 Tf
+(- Led a Firebase to NestJS/Postgres migration using a dual-write strategy.) Tj
+1 0 0 1 54 462 Tm
+/F2 11 Tf
+(Soft Restaurant \(via distributor\) - Customer Support  \(3 years, prior\)) Tj
+1 0 0 1 54 445 Tm
+/F1 10 Tf
+(- Supported Latin America's largest restaurant/bar POS system.) Tj
+1 0 0 1 54 431 Tm
+/F1 10 Tf
+(- Direct insight into POS and restaurant-tech operations.) Tj
+1 0 0 1 54 411 Tm
+/F1 6 Tf
+1 0 0 1 54 393 Tm
+/F2 12 Tf
+(SELECTED PROJECTS) Tj
+1 0 0 1 54 373 Tm
+/F1 10 Tf
+(Wmobil - real-time restaurant sales dashboard w/ AI chatbot reports \(iOS + Android\).) Tj
+1 0 0 1 54 359 Tm
+/F1 10 Tf
+(Bub - AI chatbot study guide & scheduling for a K-12 school \(iOS + Android\).) Tj
+1 0 0 1 54 345 Tm
+/F1 10 Tf
+(Unite \(US client\) - React Native \(Expo\) social/events app; matching + real-time.) Tj
+1 0 0 1 54 331 Tm
+/F1 10 Tf
+(Coffee Shop POS - offline-first POS: Windows desktop + iOS/Android self-ordering.) Tj
+1 0 0 1 54 317 Tm
+/F1 10 Tf
+(Wfacturas - QR self-invoicing for restaurant checks \(Mexican tax authority\).) Tj
+1 0 0 1 54 303 Tm
+/F1 10 Tf
+(Tonetip - app + companion Android SDK published to Maven Central.) Tj
+1 0 0 1 54 283 Tm
+/F1 6 Tf
+1 0 0 1 54 265 Tm
+/F2 12 Tf
+(SKILLS) Tj
+1 0 0 1 54 245 Tm
+/F1 10 Tf
+(Mobile: Flutter, Riverpod 2.x, BLoC, Provider, GoRouter, Freezed, Firebase, Dio,) Tj
+1 0 0 1 54 231 Tm
+/F1 10 Tf
+(        Shared Preferences, RevenueCat, React Native \(Expo\), Swift, Kotlin) Tj
+1 0 0 1 54 217 Tm
+/F1 10 Tf
+(Backend: NestJS, Prisma, PostgreSQL, Node.js, MongoDB, MySQL, Payload CMS, GraphQL) Tj
+1 0 0 1 54 203 Tm
+/F1 10 Tf
+(Real-time: LiveKit, Agora RTC/RTM, 100ms, Twilio, WebSockets) Tj
+1 0 0 1 54 189 Tm
+/F1 10 Tf
+(Infra: Docker, VPS, nginx, Let's Encrypt, Cloudflare, Tailscale, CI/CD) Tj
+1 0 0 1 54 175 Tm
+/F1 10 Tf
+(AI/Tools: Claude Code, Cowork, ChatGPT, Codex, DeepSeek, Gemini, Git, GitHub, Figma) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003390 00000 n 
+0000003460 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3535
+%%EOF
